@@ -7,7 +7,10 @@
                 </p>
                 <div class="row">
                     <div class="col-6 col-md-2 mb-3">
-                        <h5>Section</h5>
+                        <h5>
+                            <i class="bi-box-seam" style="width: 32px; height: 32px;"></i> 
+                            Cvital
+                        </h5>
                         <ul class="nav flex-column">
                             <li class="nav-item mb-2">
                                 <a href="#" class="nav-link p-0 text-muted">

@@ -6,9 +6,9 @@
         <meta name="description" content="améliorer, amélioration, alimentation, sommeil, sport, bien être, santé">
         <meta name="author" content="Seeker225 AIJNWJ">
         
-        <base href="http://localhost:8080/php-projects/bass-app/">
+        <base href="http://localhost:8080/php-projects/cvital-app/">
         
-        <title>Akwaba · BASS WebApp</title>
+        <title>Akwaba · Cvital WebApp</title>
         <link href="./node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
         <link href="./node_modules/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
         <link href="./node_modules/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -87,7 +87,11 @@
                         <ul class="list-unstyled">
                             <li><a href="#" class="text-white">Follow on Twitter</a></li>
                             <li><a href="#" class="text-white">Like on Facebook</a></li>
-                            <li><a href="#" class="text-white">Email me</a></li>
+                            <li>
+                                <a href="index.php/account/login" class="text-white">
+                                    Se connecter
+                                </a>
+                            </li>
                         </ul>
                         </div>
                     </div>
@@ -97,7 +101,7 @@
                 <div class="container">
                     <a href="#" class="navbar-brand d-flex align-items-center">
                         <i class="bi-box-seam" style="width: 32px; height: 32px;"></i> 
-                        <strong> B|A|S|S </strong>
+                        <strong> Cvital </strong>
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -111,7 +115,7 @@
             <section class="py-5 text-center container">
                 <div class="row py-lg-5">
                     <div class="col-lg-6 col-md-8 mx-auto">
-                        <h1 class="fw-light">BASS WebApp</h1>
+                        <h1 class="fw-light">Cvital</h1>
                         <p class="lead text-muted">
                             Bien se sentir un être toujours opérationnel et productif est important pour tout
                             être humain. Mais, comment y arriver ?

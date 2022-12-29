@@ -22,8 +22,8 @@ function products($id)
 
 function product($id)
 {
-    $product = get_products_by_id($id);
-    require_once 'frontend/product.php';
+    # $product = get_products_by_id($id);
+    require_once 'frontend/product-single.php';
 }
 
 function login()
