@@ -10,6 +10,7 @@
         <base href="http://localhost:8080/cvital-app/">
 
         <title>Administration | Cvital WebApp</title>
+        
         <link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" />
         <link href="./assets/css/dashboard.css" rel="stylesheet" />
         <!-- Bootstrap icons-->
