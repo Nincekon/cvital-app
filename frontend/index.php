@@ -6,7 +6,7 @@
         <meta name="description" content="améliorer, amélioration, alimentation, sommeil, sport, bien être, santé">
         <meta name="author" content="Seeker225 AIJNWJ">
         
-        <base href="http://localhost:8080/php-projects/cvital-app/">
+        <base href="http://localhost:8080/cvital-app/">
         
         <title>Akwaba · Cvital WebApp</title>
         <link href="./node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -85,6 +85,11 @@
                         <div class="col-sm-4 offset-md-1 py-4">
                         <h4 class="text-white">Contact</h4>
                         <ul class="list-unstyled">
+                            <li>
+                                <a href="index.php/seekAdmin/dashboard" class="text-white">
+                                    Aller au tableau de bord
+                                </a>
+                            </li>
                             <li><a href="#" class="text-white">Follow on Twitter</a></li>
                             <li><a href="#" class="text-white">Like on Facebook</a></li>
                             <li>

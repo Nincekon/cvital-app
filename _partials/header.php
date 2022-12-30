@@ -6,12 +6,12 @@
         <meta name="description" content="=alimentation, aliment, bien être, santé">
         <meta name="author" content="Seeker225 AIJNWJ">
         
-        <base href="http://localhost:8080/php-projects/cvital-app/">
+        <base href="http://localhost:8080/cvital-app/">
         
         <title> Catalogue | Cvital WebApp </title>
         <!-- Bootstrap icons-->
         <link href="./node_modules/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
-        <!-- Favicon-->
+        <!-- Font Awesome -->
         <link href="./node_modules/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 
         <link rel="icon" type="image/x-icon" href="./node_modules/bootstrap-icons/icons/box-seam.svg" />

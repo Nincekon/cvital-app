@@ -1,5 +1,5 @@
 <?php
-    include_once "config.php";
+    include_once "config/database.php";
 
     function upload_file($file) {
         $uploadDir = __DIR__ . '/uploads/';

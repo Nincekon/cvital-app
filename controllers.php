@@ -1,4 +1,9 @@
 <?php
+/**
+  * This file contains list of all controllers
+  *
+  * @author Seeker225 AIJNWJ <nyz225@hotmail.fr>
+  */
 
 function index()
 {
@@ -49,9 +54,9 @@ function panier()
     require_once 'front/panier.php';
 }
 
-function admin_index()
+function dashboard()
 {
-    require_once 'admin/index.php';
+    require_once 'backend/dashboard.php';
 }
 
 function admin_admins()
